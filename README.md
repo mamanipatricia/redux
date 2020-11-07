@@ -12,4 +12,4 @@ You will also see any lint errors in the console.
 
 ## DEMO
 
-![DEMO](/src/demo/secondAssignment.gif)
+![DEMO](/src/demo/firstAssignmentRedux.gif)
